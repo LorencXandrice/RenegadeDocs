@@ -1,6 +1,7 @@
 {
   "index": "Introduction",
   "general": "General Rules",
+  "connect": "Connect to the Server",
   "RPTerminology": "RP Terminology",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
@@ -11,7 +12,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://discord.gg/renegaderoleplay",
     "newWindow": true
   }
 }
