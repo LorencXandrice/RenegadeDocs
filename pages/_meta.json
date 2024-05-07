@@ -1,10 +1,13 @@
 {
   "index": "Introduction",
-  "general": "General Rules",
   "connect": "Connect to the Server",
+  "general": "General Rules",
   "RPTerminology": "RP Terminology",
   "donation": "Donations",
   "recommendedmods": "Recommended Mods",
+  "cache": "Clearing Cache",
+  "keybinds": "Keybinds",
+  "commands": "Commands",
   "about": {
     "title": "About",
     "type": "page"
