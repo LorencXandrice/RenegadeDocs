@@ -3,10 +3,9 @@
   "connect": "Connect to the Server",
   "general": "General Rules",
   "RPTerminology": "RP Terminology",
-  "donation": "Donations",
-  "recommendedmods": "Recommended Mods",
-  "cache": "Clearing Cache",
   "keybinds": "Keybinds",
+  "cache": "Clearing Cache",
+  "donation": "Donations",
     "about": {
     "title": "About",
     "type": "page"
