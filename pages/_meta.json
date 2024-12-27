@@ -1,12 +1,9 @@
 {
   "index": "Introduction",
-  "connect": "Connect to the Server",
-  "general": "General Rules",
-  "RPTerminology": "RP Terminology",
-  "keybinds": "Keybinds",
-  "cache": "Clearing Cache",
+  "icrules": "In Character - Bylaws",
+  "oocrules": "Out of Character - Rules",
   "donation": "Donations",
-    "about": {
+  "about": {
     "title": "About",
     "type": "page"
   },
