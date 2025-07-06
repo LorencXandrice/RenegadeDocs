@@ -1,9 +1,9 @@
 {
   "connect": "§1 Connect to the Server",
   "cache": "§2 Clearing Cache",
-  "community": "§3 Community Guidelines",
-  "content": "§4 Content Restrictions",
-  "serverrules": "§5 Server Rules"
-  
-  
+  "fivem": "§3 Recommended FiveM Settings", 
+  "community": "§4 Community Guidelines",
+  "content": "§5 Content Restrictions",
+  "serverrules": "§6 Server Rules",
+  "lore": "§7 Lore Friendly"
 }
