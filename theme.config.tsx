@@ -19,7 +19,7 @@ const config = {
   },
     useNextSeoProps() {
       return {
-        titleTemplate: 'Renegade Guidebook',
+        titleTemplate: '%s – Renegade Rules',
       }
     },
     banner: {
