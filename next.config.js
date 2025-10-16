@@ -2,9 +2,11 @@ import nextra from 'nextra'
 
 const withNextra = nextra({
   theme: 'nextra-theme-docs',
-  themeConfig: './theme.config.tsx'
+  themeConfig: './theme.config.tsx',
+  defaultShowCopyCode: true
 })
 
 export default withNextra({
-  reactStrictMode: true
+  reactStrictMode: true,
+  pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'md', 'mdx']
 })
