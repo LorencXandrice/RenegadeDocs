@@ -1,7 +1,6 @@
 import React from 'react'
-import { DocsThemeConfig } from 'nextra-theme-docs'
 
-const config: DocsThemeConfig = {
+const config = {
   logo: <span style={{ marginLeft: '.4em', fontWeight: 800 }}>Renegade Roleplay</span>,
   
   chat: {
@@ -9,7 +8,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
-    text: (
+    content: (
       <span>
         Copyright ©{' '}{new Date().getFullYear() }{' '}
         <a href="https://docs.renegaderp.net/" target="_blank">
