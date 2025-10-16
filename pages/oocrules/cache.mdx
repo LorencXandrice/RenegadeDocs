@@ -1,11 +1,16 @@
+import { Callout } from 'nextra/components'
+
 # §2 🖥️ Clearing Your Cache 🖥️
+
+<Callout type="default">
+We highly recommend creating a shortcut for the `📁 FiveM Application Data` folder for ease of access in the future.
+</Callout>
 
 We don't typically recommend clearing your cache, but if you need to, follow the steps below:
 1. You should have a 📁 shortcut that takes you to the folder directly, called **FiveM Application Data**.\
-a. If not, *search* **`AppData\Local\FiveM\FiveM.app`** in your 📁 Windows Explorer address bar\
+a. If not, *press* `Windows` + `E` and *search* **`AppData\Local\FiveM\FiveM.app`** in your `📁 Windows Explorer`\
 OR\
-b. *Press* `Windows` + `R` and *search* **`%AppData%`** → *open* `📁 Local` → `📁 FiveM` → `📁 FiveM Application Data`\
-c. We highly recommend creating a shortcut for the `📁 FiveM Application Data` folder for ease of access in the future.
+b. *Press* `Windows` + `R` and *search* **`%AppData%`** → *open* `📁 Local` → `📁 FiveM` → `📁 FiveM Application Data`
 
 2. *Open* the `📁 Data` folder **only** *delete* the following folders:\
 a. 📁 cache\
@@ -13,7 +18,8 @@ b. 📁 nui-storage\
 c. 📁 server-cache-priv\
 d. 📁 server-cache
 
-
-⚠️ Do *not* delete the 📁 `game-storage` folder, or you will have to re-download the **entire** game cache.
+<Callout type="error">
+  **Don't delete the 📁 `game-storage` folder, or you will have to re-download the *entire* game cache.**
+</Callout>
 
 📡 When you reconnect to the server, you'll see all of the resources re-downloaded, so please be patient as you re-download all the assets. 
