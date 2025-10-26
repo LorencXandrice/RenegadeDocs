@@ -1,7 +1,4 @@
 export default {
-  connect: "§1 Connect to the Server",
-  cache: "§2 Clearing Cache",
-  fivem: "§3 Recommended FiveM Settings", 
   community: "§4 Community Guidelines",
   content: "§5 Content Restrictions",
   serverrules: "§6 Server Rules",
