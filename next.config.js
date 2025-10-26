@@ -6,7 +6,16 @@ const withNextra = nextra({
   defaultShowCopyCode: true
 })
 
+
 export default withNextra({
-  reactStrictMode: true,
+reactStrictMode: true,
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'r2.fivemanage.com'
+      }
+    ]
+  },
   pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'md', 'mdx']
 })
