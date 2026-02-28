@@ -1,5 +1,6 @@
 export default {
   index: "Introduction",
+  start: "New Character Who This",
   icrules: "In Character - Bylaws",
   oocrules: "Out of Character - Rules",
   donation: "Donations",

@@ -17,6 +17,11 @@ const config = {
       <meta property="og:description" content="Renegade Roleplay Documentation" />
     </>
   ),
+  sidebar: {
+    // Setting this to 1 collapses all folders by default.
+    // If you set it to Infinity, all nested folders will be expanded by default.
+    defaultMenuCollapseLevel: 1, 
+  },
   footer: {
     content: (
       <span>
