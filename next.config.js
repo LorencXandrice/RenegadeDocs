@@ -8,7 +8,7 @@ const withNextra = nextra({
 
 
 export default withNextra({
-reactStrictMode: true,
+  reactStrictMode: true,
   images: {
     remotePatterns: [
       {
@@ -16,6 +16,5 @@ reactStrictMode: true,
         hostname: 'r2.fivemanage.com'
       }
     ]
-  },
-  pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'md', 'mdx']
+  }
 })
